@@ -45,12 +45,16 @@ ul {
 .image-number {
 	display: inline-block;
 	float: left;
+	color: #cacaca;
+	padding-top: 13px; 
 }
 
 .image-caption {
 	display: inline-block;
 	float: right;
 	padding-right: 100px;
+	color: #767677;
+	padding-top: 13px;
 }
   
 .authors img {
